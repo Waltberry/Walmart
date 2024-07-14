@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PowerOfTwoMaxHeap",
+            "request": "launch",
+            "mainClass": "com.walmart.priorityqueue.PowerOfTwoMaxHeap",
+            "projectName": "Walmart_a64f590d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "com.walmart.priorityqueue.PowerOfTwoMaxHeap",
+            "projectName": "Walmart"
+        }
+    ]
+}
